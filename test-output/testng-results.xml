@@ -2,39 +2,39 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-12-05T18:49:15 IST" name="Suite" finished-at="2023-12-05T18:49:27 IST" duration-ms="12149">
+  <suite started-at="2023-12-05T18:57:48 IST" name="Suite" finished-at="2023-12-05T18:58:00 IST" duration-ms="11948">
     <groups>
     </groups>
-    <test started-at="2023-12-05T18:49:15 IST" name="Test" finished-at="2023-12-05T18:49:27 IST" duration-ms="12149">
+    <test started-at="2023-12-05T18:57:48 IST" name="Test" finished-at="2023-12-05T18:58:00 IST" duration-ms="11948">
       <class name="addtocarttabtestcases.AddtoCart">
-        <test-method is-config="true" signature="InitExentReport()[pri:0, instance:addtocarttabtestcases.AddtoCart@a8e6492]" started-at="2023-12-05T18:49:15 IST" name="InitExentReport" finished-at="2023-12-05T18:49:15 IST" duration-ms="266" status="PASS">
+        <test-method is-config="true" signature="InitExentReport()[pri:0, instance:addtocarttabtestcases.AddtoCart@a8e6492]" started-at="2023-12-05T18:57:48 IST" name="InitExentReport" finished-at="2023-12-05T18:57:48 IST" duration-ms="262" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- InitExentReport -->
-        <test-method is-config="true" signature="getnameMethod(org.testng.ITestContext)[pri:0, instance:addtocarttabtestcases.AddtoCart@a8e6492]" started-at="2023-12-05T18:49:15 IST" name="getnameMethod" finished-at="2023-12-05T18:49:15 IST" duration-ms="9" status="PASS">
+        <test-method is-config="true" signature="getnameMethod(org.testng.ITestContext)[pri:0, instance:addtocarttabtestcases.AddtoCart@a8e6492]" started-at="2023-12-05T18:57:48 IST" name="getnameMethod" finished-at="2023-12-05T18:57:48 IST" duration-ms="8" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@ab4aa5e]]>
+                <![CDATA[org.testng.TestRunner@1c297897]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getnameMethod -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:addtocarttabtestcases.AddtoCart@a8e6492]" started-at="2023-12-05T18:49:15 IST" name="setup" finished-at="2023-12-05T18:49:23 IST" duration-ms="7711" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:addtocarttabtestcases.AddtoCart@a8e6492]" started-at="2023-12-05T18:57:48 IST" name="setup" finished-at="2023-12-05T18:57:55 IST" duration-ms="7399" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verifyUserisabletoaddTablettoCartandRemovefromCart()[pri:0, instance:addtocarttabtestcases.AddtoCart@a8e6492]" started-at="2023-12-05T18:49:23 IST" name="verifyUserisabletoaddTablettoCartandRemovefromCart" finished-at="2023-12-05T18:49:26 IST" duration-ms="3275" status="PASS">
+        <test-method signature="verifyUserisabletoaddTablettoCartandRemovefromCart()[pri:0, instance:addtocarttabtestcases.AddtoCart@a8e6492]" started-at="2023-12-05T18:57:55 IST" name="verifyUserisabletoaddTablettoCartandRemovefromCart" finished-at="2023-12-05T18:57:59 IST" duration-ms="3465" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyUserisabletoaddTablettoCartandRemovefromCart -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:addtocarttabtestcases.AddtoCart@a8e6492]" started-at="2023-12-05T18:49:26 IST" name="tearDown" finished-at="2023-12-05T18:49:27 IST" duration-ms="1117" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:addtocarttabtestcases.AddtoCart@a8e6492]" started-at="2023-12-05T18:57:59 IST" name="tearDown" finished-at="2023-12-05T18:58:00 IST" duration-ms="1038" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="generateStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:addtocarttabtestcases.AddtoCart@a8e6492]" started-at="2023-12-05T18:49:27 IST" name="generateStatus" finished-at="2023-12-05T18:49:27 IST" duration-ms="4" status="PASS">
+        <test-method is-config="true" signature="generateStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:addtocarttabtestcases.AddtoCart@a8e6492]" started-at="2023-12-05T18:58:00 IST" name="generateStatus" finished-at="2023-12-05T18:58:00 IST" duration-ms="8" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -50,7 +50,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- generateStatus -->
-        <test-method is-config="true" signature="generateReports()[pri:0, instance:addtocarttabtestcases.AddtoCart@a8e6492]" started-at="2023-12-05T18:49:27 IST" name="generateReports" finished-at="2023-12-05T18:49:28 IST" duration-ms="1063" status="PASS">
+        <test-method is-config="true" signature="generateReports()[pri:0, instance:addtocarttabtestcases.AddtoCart@a8e6492]" started-at="2023-12-05T18:58:00 IST" name="generateReports" finished-at="2023-12-05T18:58:01 IST" duration-ms="841" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- generateReports -->
